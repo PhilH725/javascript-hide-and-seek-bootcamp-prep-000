@@ -9,7 +9,6 @@ function nestedTarget() {
   for (let i = 0; i < find.length; i++) {
     
   } */
-  console.log(find)
+
 }
 
-getFirstSelector('div')
