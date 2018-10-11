@@ -8,3 +8,6 @@ function nestedTarget() {
   return start.getElementsByTagName('div')[3]
 }
 
+function increaseRankBy(n) {
+  
+}
