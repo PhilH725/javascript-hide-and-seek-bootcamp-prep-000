@@ -12,4 +12,4 @@ function nestedTarget() {
   console.log(find)
 }
 
-nestedTarget()
+getFirstSelector('div')
