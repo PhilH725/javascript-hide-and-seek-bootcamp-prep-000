@@ -4,7 +4,7 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget() {
-  const find = document.ElementsByTagName('nested')
+  const find = document.getElementsByTagName('nested')
   /*
   for (let i = 0; i < find.length; i++) {
     
