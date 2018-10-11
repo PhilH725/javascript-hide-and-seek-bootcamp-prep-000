@@ -5,7 +5,7 @@ function getFirstSelector(selector) {
 
 function nestedTarget() {
   const start = document.getElementById('nested')
-  start.getElementsByTagName('target')
+  return start.getElementsByTagName('target')
 
 }
 
