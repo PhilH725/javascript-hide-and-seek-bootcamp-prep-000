@@ -6,6 +6,5 @@ function getFirstSelector(selector) {
 function nestedTarget() {
   const start = document.getElementById('nested')
   return start.getElementsByTagName('div')[3]
-
 }
 
