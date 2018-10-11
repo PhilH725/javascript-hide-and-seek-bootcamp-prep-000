@@ -4,6 +4,10 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget() {
-  const = document.querySelector('nested')
-  return document.querySelector()
+  const find = document.querySelector('nested')
+  /*
+  for (let i = 0; i < find.length; i++) {
+    
+  } */
+  console.log(find)
 }
